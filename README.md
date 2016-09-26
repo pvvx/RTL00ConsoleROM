@@ -20,7 +20,6 @@ JLinkGDB-WrFlash.bat
 ```
 JLink-Reset.bat
 ```
-```
 ## Runing in ram:
 ```
 JLink-RunRAM.bat
